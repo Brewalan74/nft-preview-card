@@ -1,0 +1,55 @@
+body {
+    background-color: #0d1a2d;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.card {
+    width: 18rem;
+    margin: 2rem auto 0 auto;
+    padding: 1rem;
+    background-color: #15273f;
+}
+
+h5 {
+    color: white;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    color: #5f7393;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.inline {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #1e3048;
+}
+
+.inlineAvatar {
+    display: inline-flex;
+    align-items: center;
+}
+
+.crypto {
+    color: #35e3ea;
+}
+
+.avatar {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-right: 1rem;
+}
