@@ -53,3 +53,7 @@ p {
     border: 1px solid white;
     margin-right: 1rem;
 }
+
+.author {
+    color: white;
+}
